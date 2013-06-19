@@ -1,0 +1,64 @@
+Clock: 6.848074647291271
+Processing Arrival Event #1
+Customer1 enters the bank
+     and is immediately served at 6.848074647291271
+
+
+Clock: 11.568056953984371
+Processing Departure Event #1
+Customer 1 leaves 
+
+Clock: 38.17398928347095
+Processing Arrival Event #2
+Customer2 enters the bank
+     and is immediately served at 38.17398928347095
+
+
+Clock: 39.29882734580617
+Processing Arrival Event #3
+Customer3 enters the bank
+
+
+Clock: 39.5509885589716
+Processing Departure Event #2
+Customer 2 leaves 
+
+Clock: 43.704019199024835
+Processing Arrival Event #4
+Customer4 enters the bank
+
+
+Clock: 45.785881296116216
+Processing Departure Event #3
+Customer 3 leaves 
+
+Clock: 46.55252776138906
+Processing Departure Event #4
+Customer 4 leaves 
+
+Clock: 50.04117733726696
+Processing Arrival Event #5
+Customer5 enters the bank
+     and is immediately served at 50.04117733726696
+
+
+Clock: 50.8078238025398
+Processing Departure Event #5
+Customer 5 leaves 
+
+Clock: 53.167128372205376
+Processing Arrival Event #6
+Customer6 enters the bank
+     and is immediately served at 53.167128372205376
+
+
+Clock: 53.189750446275134
+Processing Departure Event #6
+Customer 6 leaves 
+
+Total number of customers coming through the doors: 6
+Customers Served(including those being served at end of simulation): 6
+Customers who did not hve to wait: 4 (%66.66666666666666)
+Total wait time(including those who have not been serviced yet): 2.3340233102568178
+Avergae waiting time: 0.389003885042803
+People still in Queue: 0
